@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Tudinero</string>
+    <string name="app_name">Tu precio</string>
     <string name="title_activity_main2">Main2Activity</string>
     <string-array name="countries_array">
         <item>10</item>
